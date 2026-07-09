@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONTINUE SHOPPING</name>
+   <tag></tag>
+   <elementGuidId>4cf65292-82af-4e41-acca-9b257b4b57f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;CONTINUE SHOPPING&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7bb3cc38-1389-4d0a-bdd3-a63cbaa1f323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>31154678-82c3-46fc-9138-3612b482b51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button primary</value>
+      <webElementGuid>2665c204-79b0-4c1b-97b2-beb70fae984f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUE SHOPPING</value>
+      <webElementGuid>423a5277-e548-499f-87f0-12a2458d9f58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;page-width grid grid-cols-1 md:grid-cols-2 gap-12&quot;]/div[1]/div[@class=&quot;checkout-success-customer-info&quot;]/a[@class=&quot;button primary&quot;]</value>
+      <webElementGuid>6d1b25ef-2f6a-48c7-ab0e-83f57ceb415a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div/div/a</value>
+      <webElementGuid>6b620526-c48e-4874-8935-4a082d0cca7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='China'])[2]/following::a[1]</value>
+      <webElementGuid>8c0e19e7-9da0-4d6a-a72f-e154b2ba1ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beijing,'])[2]/following::a[1]</value>
+      <webElementGuid>efdc9c24-d6e8-4a8b-ba5e-97fce3a3e64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nike drop-type premium'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd017d50-b3e0-4a59-8154-1bd3ca74ac56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[8]</value>
+      <webElementGuid>37d444e5-b412-46b2-a039-8c5f2a018ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/a</value>
+      <webElementGuid>8a6aad23-41e7-4adc-88e8-bdcb269a6c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'CONTINUE SHOPPING' or . = 'CONTINUE SHOPPING')]</value>
+      <webElementGuid>b64304b1-54aa-41f4-8990-2b44ccc4dc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jack purcell leather'])[1]/preceding::a[1]</value>
+      <webElementGuid>e62dc252-a0ce-447b-9ea5-aaf5b1697267</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

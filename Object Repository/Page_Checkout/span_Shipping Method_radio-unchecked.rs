@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shipping Method_radio-unchecked</name>
+   <tag></tag>
+   <elementGuidId>6f5df820-6554-4120-865a-12c9b3c1c73f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.radio-unchecked</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='checkoutShippingAddressForm']/div/div[6]/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#checkoutShippingAddressForm span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1c10a02-6b76-4c43-ac5d-271e52514a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-unchecked</value>
+      <webElementGuid>a5411b9d-0aff-400c-b925-5ac5d9ba8c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutShippingAddressForm&quot;)/div[1]/div[@class=&quot;shipping-methods&quot;]/div[@class=&quot;divide-y border rounded border-divider p-4 mb-8&quot;]/div[@class=&quot;form-field-container null&quot;]/div[@class=&quot;field-wrapper radio-field&quot;]/div[1]/label[@class=&quot;flex&quot;]/span[@class=&quot;radio-unchecked&quot;]</value>
+      <webElementGuid>1ed9b763-c872-48f2-ba38-f77d64fe87e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutShippingAddressForm']/div/div[6]/div/div/div/div/label/span</value>
+      <webElementGuid>5ed3f3bf-599d-4f87-91a0-fdfd9a8421ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>bf9f631d-c302-4ed7-b82c-d63e87dc2f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

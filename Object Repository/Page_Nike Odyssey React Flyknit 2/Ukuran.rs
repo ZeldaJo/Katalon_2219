@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ukuran</name>
+   <tag></tag>
+   <elementGuidId>85d2382d-31d2-4759-b266-18031f917ade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.variant-option-list.flex.justify-start.gap-2.flex-wrap</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[text()='${ukuran}' or normalize-space()='${ukuran}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SXL&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>5386af8d-2c87-4757-b3ed-aafa931485a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>variant-option-list flex justify-start gap-2 flex-wrap</value>
+      <webElementGuid>45d3af46-ac4a-4073-b84e-27a9ff57adfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SXL</value>
+      <webElementGuid>def903db-5b21-40c5-bdd7-313cd97d03f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[text()='${ukuran}' or normalize-space()='${ukuran}']</value>
+      <webElementGuid>8e6e4154-4bad-41bd-93c8-3714ccb92f18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul</value>
+      <webElementGuid>a38a711c-cfef-4130-afb7-c4fca269c6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pink'])[1]/following::ul[1]</value>
+      <webElementGuid>b173c35e-7c39-41c4-b416-11bd82ceacad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/following::ul[1]</value>
+      <webElementGuid>d7ee1c9e-9d57-4de5-a5d3-cb8c61270ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/preceding::ul[2]</value>
+      <webElementGuid>4f3183b5-a309-4c94-8147-8c573bc8f35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Evershop. All Rights Reserved.'])[1]/preceding::ul[2]</value>
+      <webElementGuid>aab98fda-d2e9-40a8-9197-a99dd48c99cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul</value>
+      <webElementGuid>9d0823e2-05cc-4de5-be4d-0d7a09134a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'SXL' or . = 'SXL')]</value>
+      <webElementGuid>0a982896-d553-4a84-9810-72e4871f2928</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

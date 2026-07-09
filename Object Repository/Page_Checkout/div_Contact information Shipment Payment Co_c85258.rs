@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact information Shipment Payment Co_c85258</name>
+   <tag></tag>
+   <elementGuidId>a9a9037e-0965-4105-896e-09df500d5ab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Contact information Shipment Payment Contactdemoevershop1@gmail.comShip tobubudi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82a3a1ce-ca28-4c67-8fbd-3a46c76f0a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact information Shipment Payment Contactdemoevershop1@gmail.comShip tobubudijojijaja, bumi, ChinaChangeBilling AddressMy billing address is same as shipping addressFull nameTelephoneAddressCityCountryCountryAlgeriaChinaIndiaSouth KoreaUnited StatesProvinceProvinceAnhuiBeijingChongqingFujianGansuGuangdongGuangxiGuizhouHainanHebeiHeilongjiangHenanHubeiHunanJiangsuJiangxiJilinLiaoningNei MongolNingxiaQinghaiShaanxiShandongShanghaiShanxiSichuanTianjinXinjiangXizangYunnanZhejiangPostcodePayment Method1Nike drop-type premiumSize: LColor: Black$874.00Sub total1 items$874.00ShippingExpress Delivery$15.00Discount$0.00Total(Inclusive of tax $79.45)$889.00nahh brooSavePlace Order</value>
+      <webElementGuid>40cc060e-0a25-4757-bbbf-484c44f16a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;page-width grid grid-cols-1 md:grid-cols-2 gap-12&quot;]/div[1]</value>
+      <webElementGuid>6cbc42ba-1093-4c9c-9bee-7f4e30c70d73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div</value>
+      <webElementGuid>cc3645a7-51cb-4892-bcd9-a3497790de68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[2]/following::div[2]</value>
+      <webElementGuid>baf8074d-d091-4e3b-a200-54f564cc74f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[2]</value>
+      <webElementGuid>71ac6671-98c8-406e-b409-0d96d18aef41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div</value>
+      <webElementGuid>e9990405-904f-45cf-9712-ae1fc28d8c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact information Shipment Payment Contactdemoevershop1@gmail.comShip tobubudijojijaja, bumi, ChinaChangeBilling AddressMy billing address is same as shipping addressFull nameTelephoneAddressCityCountryCountryAlgeriaChinaIndiaSouth KoreaUnited StatesProvinceProvinceAnhuiBeijingChongqingFujianGansuGuangdongGuangxiGuizhouHainanHebeiHeilongjiangHenanHubeiHunanJiangsuJiangxiJilinLiaoningNei MongolNingxiaQinghaiShaanxiShandongShanghaiShanxiSichuanTianjinXinjiangXizangYunnanZhejiangPostcodePayment Method1Nike drop-type premiumSize: LColor: Black$874.00Sub total1 items$874.00ShippingExpress Delivery$15.00Discount$0.00Total(Inclusive of tax $79.45)$889.00nahh brooSavePlace Order' or . = 'Contact information Shipment Payment Contactdemoevershop1@gmail.comShip tobubudijojijaja, bumi, ChinaChangeBilling AddressMy billing address is same as shipping addressFull nameTelephoneAddressCityCountryCountryAlgeriaChinaIndiaSouth KoreaUnited StatesProvinceProvinceAnhuiBeijingChongqingFujianGansuGuangdongGuangxiGuizhouHainanHebeiHeilongjiangHenanHubeiHunanJiangsuJiangxiJilinLiaoningNei MongolNingxiaQinghaiShaanxiShandongShanghaiShanxiSichuanTianjinXinjiangXizangYunnanZhejiangPostcodePayment Method1Nike drop-type premiumSize: LColor: Black$874.00Sub total1 items$874.00ShippingExpress Delivery$15.00Discount$0.00Total(Inclusive of tax $79.45)$889.00nahh brooSavePlace Order')]</value>
+      <webElementGuid>9a202894-e703-48e2-80d0-603456d3246c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

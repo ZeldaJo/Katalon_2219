@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Ukuran</name>
+   <tag></tag>
+   <elementGuidId>1b274783-d462-46ed-a4b4-939841159612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.variant-option-list.flex.justify-start.gap-2.flex-wrap > li > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'L' or . = 'L')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;L&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>830417fa-8c40-4e1a-a5a4-69a942407187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a85172a1-fc05-435a-b4bd-7209a9ba8821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>L</value>
+      <webElementGuid>77208719-5515-47bf-ac47-b7844b13e7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;product-page-middle page-width&quot;]/div[@class=&quot;grid grid-cols-1 gap-12 md:grid-cols-2&quot;]/div[2]/div[@class=&quot;variant variant-container grid grid-cols-1 gap-4 mt-8&quot;]/div[1]/ul[@class=&quot;variant-option-list flex justify-start gap-2 flex-wrap&quot;]/li[1]/a[1]</value>
+      <webElementGuid>69b3561c-004f-4a9c-a57f-b868ced09080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>0cbb95f6-def5-4e91-8738-113d8a35df7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'L')]</value>
+      <webElementGuid>588c5c80-ecc6-4852-acdf-1f5bdc2886f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White'])[1]/following::a[1]</value>
+      <webElementGuid>a6914663-357d-49d4-8901-8e284665a596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/following::a[1]</value>
+      <webElementGuid>df9bd1b9-5298-496e-bfdf-afdde0fd5eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/preceding::a[4]</value>
+      <webElementGuid>ed5429b7-c16a-42f0-a7b5-3446df6b45ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Evershop. All Rights Reserved.'])[1]/preceding::a[4]</value>
+      <webElementGuid>d68e63ba-3e61-4523-8d33-cfaf19682d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='L']/parent::*</value>
+      <webElementGuid>423eacbe-22f3-4058-95fa-ab78fb038005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>9ce3a414-bd25-4c21-a005-a76185ecce55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>35461e5d-b559-4028-94de-f525106b576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'L' or . = 'L')]</value>
+      <webElementGuid>065aca30-f51a-4486-9a92-b649175ff086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

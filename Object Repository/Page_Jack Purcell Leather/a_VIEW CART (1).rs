@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW CART (1)</name>
+   <tag></tag>
+   <elementGuidId>989aea4f-4bcc-431a-ab3a-554ec2d901be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.add-cart-popup-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='0fv5nw76o2']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;VIEW CART (1)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4f1945b7-3d7c-4cba-bdc6-47648bebb57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-cart-popup-button</value>
+      <webElementGuid>266ae8cd-bba9-44ca-a5be-7f9f04341b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart</value>
+      <webElementGuid>6046a510-1dad-42aa-b4df-424fc4012f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW CART (1)</value>
+      <webElementGuid>b8688920-8ca6-46fc-9499-eb4fca81e5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0fv5nw76o2&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[@class=&quot;toast-mini-cart&quot;]/a[@class=&quot;add-cart-popup-button&quot;]</value>
+      <webElementGuid>5cb43f86-3dbd-4456-9a21-bb3064c5aab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0fv5nw76o2']/div/div/a</value>
+      <webElementGuid>f2c8f9e8-c008-4e08-84f0-0969cc5b19aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VIEW CART (1)')]</value>
+      <webElementGuid>dc17afab-4db2-4a2d-981e-03fbf59a3915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY: 1'])[1]/following::a[1]</value>
+      <webElementGuid>1256286e-b3a7-4e56-bcab-0ec7a1f7590b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jack purcell leather'])[2]/following::a[1]</value>
+      <webElementGuid>a75e6b68-9e8f-45a8-bab6-43a9be58123f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW CART (1)']/parent::*</value>
+      <webElementGuid>1aab3a6e-4590-4cdf-8b07-68202b0f9e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/cart')])[2]</value>
+      <webElementGuid>ea0410cf-9a2c-4fe6-8862-31b46177fae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/a</value>
+      <webElementGuid>b9507556-f2eb-4cd2-a143-0f1edefc3e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart' and (text() = 'VIEW CART (1)' or . = 'VIEW CART (1)')]</value>
+      <webElementGuid>3aa5a871-b877-4787-9e1f-bee3b262eb30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

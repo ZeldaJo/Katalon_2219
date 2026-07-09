@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_BlackWhite</name>
+   <tag></tag>
+   <elementGuidId>df3b7c96-2343-479a-b875-09ed71a20f55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > ul.variant-option-list.flex.justify-start.gap-2.flex-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div[2]/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BlackWhite&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>14545322-8476-44e5-b7be-a9f25489745d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>variant-option-list flex justify-start gap-2 flex-wrap</value>
+      <webElementGuid>b9aa092c-77d7-4898-923f-4509ee7707d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BlackWhite</value>
+      <webElementGuid>dbb48974-7dfd-471e-b1da-3eee472e6439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;product-page-middle page-width&quot;]/div[@class=&quot;grid grid-cols-1 gap-12 md:grid-cols-2&quot;]/div[2]/div[@class=&quot;variant variant-container grid grid-cols-1 gap-4 mt-8&quot;]/div[2]/ul[@class=&quot;variant-option-list flex justify-start gap-2 flex-wrap&quot;]</value>
+      <webElementGuid>ecd7c452-d438-47fd-8b00-013a3b6885b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div[2]/div/div[2]/div[2]/div[2]/ul</value>
+      <webElementGuid>a59eed5d-1806-40dd-b768-c9fee2738b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White'])[1]/following::ul[2]</value>
+      <webElementGuid>e5b13f49-ab0a-4132-a474-61be079abb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/following::ul[2]</value>
+      <webElementGuid>ab9bc62b-f694-465c-8dae-1d2b7521c230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/preceding::ul[1]</value>
+      <webElementGuid>22d725c7-2d46-4da8-8cc3-a627c4d9f329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Evershop. All Rights Reserved.'])[1]/preceding::ul[1]</value>
+      <webElementGuid>068da607-6742-4a72-8019-c3af1783cc5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul</value>
+      <webElementGuid>c56ef797-50a3-44f3-8517-b0a7d194c368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'BlackWhite' or . = 'BlackWhite')]</value>
+      <webElementGuid>7a0ec670-002f-4b7e-98d7-fa23b84e09a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

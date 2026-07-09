@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JUST ADDED TO YOUR CARTNike drop-type p_41d87c</name>
+   <tag></tag>
+   <elementGuidId>a079f88a-b6e6-4b4f-9fe9-ac0de1e2cc4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2z23qbg9j1']/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='toast-mini-cart']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-mini-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;JUST ADDED TO YOUR CARTNike drop-type premiumQTY: 1VIEW CART (1)Continue Shoppin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eaf81afc-efac-439a-8ae6-fe42cce094c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-mini-cart</value>
+      <webElementGuid>e685827c-0258-4dc3-8d16-924f989a24fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JUST ADDED TO YOUR CARTNike drop-type premiumQTY: 1VIEW CART (1)Continue Shopping</value>
+      <webElementGuid>6e60daf1-5dc1-4df1-8c43-87e8a95a1ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='toast-mini-cart']&#xd;
+</value>
+      <webElementGuid>7c3151ee-153f-4ebb-910f-8fff98a8576e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2z23qbg9j1']/div/div</value>
+      <webElementGuid>caab92af-16ad-40cf-83e7-61b62dd75879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Evershop. All Rights Reserved.'])[1]/following::div[6]</value>
+      <webElementGuid>bd690dc3-1d34-4c08-8a4f-60f18f2388ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/following::div[23]</value>
+      <webElementGuid>96feaff9-ce65-40cd-9c0e-113ae3eba562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div</value>
+      <webElementGuid>a4a08a80-cbfe-42e1-82a2-7fbdf5b9956c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JUST ADDED TO YOUR CARTNike drop-type premiumQTY: 1VIEW CART (1)Continue Shopping' or . = 'JUST ADDED TO YOUR CARTNike drop-type premiumQTY: 1VIEW CART (1)Continue Shopping')]</value>
+      <webElementGuid>19ca7579-3b2c-4562-8f62-40706d09b858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

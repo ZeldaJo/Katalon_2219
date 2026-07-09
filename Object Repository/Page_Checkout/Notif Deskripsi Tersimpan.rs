@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notif Deskripsi Tersimpan</name>
+   <tag></tag>
+   <elementGuidId>90a125f7-59a7-43b0-b6ea-64a623b9c7a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a4dhg0krw6']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role='alert' and contains(.,'Note saved successfully')]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a4dhg0krw6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Note saved successfully$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ccab7f87-a050-4496-a4ca-ce87001667a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>a4dhg0krw6</value>
+      <webElementGuid>d40010fc-ea82-40bc-8176-2722128ee438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast Toastify__toast--success</value>
+      <webElementGuid>ab32bb60-92b8-40b0-a3fb-f15650ce0a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Note saved successfully</value>
+      <webElementGuid>f2601c83-d338-454f-8694-212929d23e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role='alert' and contains(.,'Note saved successfully')]&#xd;
+</value>
+      <webElementGuid>6502e7f5-d13d-4ca5-b1c6-ff7666134331</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='a4dhg0krw6']</value>
+      <webElementGuid>4dc503f4-b31c-4278-a15d-8fe10e56eab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div/div/div</value>
+      <webElementGuid>90e9f520-afd6-4669-bdc1-5c7fda0b03cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Evershop. All Rights Reserved.'])[1]/following::div[4]</value>
+      <webElementGuid>5b6e7593-5096-48a4-9ee8-2e33fac71468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[14]</value>
+      <webElementGuid>8b91bf84-c791-4e77-8f16-e9d688ed816d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>b6cf2d1f-313f-4585-b27a-ee57aa620a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'a4dhg0krw6' and (text() = 'Note saved successfully' or . = 'Note saved successfully')]</value>
+      <webElementGuid>1df38da6-dab1-4331-9d1e-be633497fa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='qsnue1ssre']</value>
+      <webElementGuid>56fdf1c7-b226-4940-9ae5-f0d3b33739c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'qsnue1ssre' and (text() = 'Note saved successfully' or . = 'Note saved successfully')]</value>
+      <webElementGuid>89f9f207-e3ce-4cf9-a665-368a4c91b2c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

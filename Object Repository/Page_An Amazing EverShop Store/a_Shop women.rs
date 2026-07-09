@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop women</name>
+   <tag></tag>
+   <elementGuidId>fa16a562-4240-4acd-a23e-efd8d47ef892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[2]/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Shop women&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>623d0d51-6038-435a-a823-7c6eae5702fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/women</value>
+      <webElementGuid>007b24f5-1d25-420b-871a-3487f610b75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button primary</value>
+      <webElementGuid>30cc2290-7c6d-41a9-b8f5-bf0b51786c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop women</value>
+      <webElementGuid>5749a97f-6c5f-47f1-9817-027a4267b9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;text-block-widget page-width&quot;]/div[@class=&quot;editor__html&quot;]/div[@class=&quot;row__container mt-12 grid md:grid-cols-3 grid-cols-1 gap-8&quot;]/div[@class=&quot;column__container md:col-span-1 col-span-1&quot;]/div[@class=&quot;prose prose-base max-w-none&quot;]/div[1]/a[@class=&quot;button primary&quot;]</value>
+      <webElementGuid>5cae4613-6203-4e5a-ab06-7d261414e28c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>c1a9cae8-459f-4400-80a1-0ad23e04dfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women shoes collection'])[1]/following::a[1]</value>
+      <webElementGuid>18b3ce54-995b-47dc-8d5a-929940100949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop kids'])[1]/following::a[1]</value>
+      <webElementGuid>6ffcc847-2ba9-4368-9ecb-41ec800a9a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men shoes collection'])[1]/preceding::a[1]</value>
+      <webElementGuid>7bc1d63d-3c82-4057-a5f2-5269b4cb0746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/women')])[2]</value>
+      <webElementGuid>e0251ed4-79fa-4bf5-8ca4-37ecbecef705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>3df2d9dd-0122-4049-9ae1-bf165e976319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/women' and (text() = 'Shop women' or . = 'Shop women')]</value>
+      <webElementGuid>7259e1a5-19a8-4abb-bf83-f752ad194fce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

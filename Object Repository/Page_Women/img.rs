@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>bd11e4e3-0d54-41d2-8c8a-214e7574ad1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Jack purcell leather&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div[3]/div[2]/div[2]/div/div[5]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Jack purcell leather&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f40d17c-615d-4193-8929-9f9b0cb0e1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demositefiles.blob.core.windows.net/images/catalog/8281/4198/plv2011-Brown-listing.png</value>
+      <webElementGuid>11f39127-74fb-4357-a66f-7e9b5b221fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Jack purcell leather</value>
+      <webElementGuid>42d117a1-76e7-4619-a4df-ad90249adcf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;page-width grid grid-cols-1 md:grid-cols-4 gap-8&quot;]/div[@class=&quot;md:col-span-3&quot;]/div[2]/div[@class=&quot;grid grid-cols-2 md:grid-cols-3 gap-8&quot;]/div[@class=&quot;listing-tem&quot;]/div[@class=&quot;product-thumbnail-listing&quot;]/a[1]/img[1]</value>
+      <webElementGuid>d3be1af7-ee76-4041-9429-80c7c9fd4e49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div[3]/div[2]/div[2]/div/div[5]/div/a/img</value>
+      <webElementGuid>9acb2c38-f06a-4d94-83f1-30b17fca2e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Jack purcell leather']</value>
+      <webElementGuid>0879f4b4-39ec-4118-9532-ac6a0052c54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/img</value>
+      <webElementGuid>df49e5ea-e0f4-4df9-8fb0-b62b5ad99f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demositefiles.blob.core.windows.net/images/catalog/8281/4198/plv2011-Brown-listing.png' and @alt = 'Jack purcell leather']</value>
+      <webElementGuid>1c2c2933-3b99-4fe7-a877-c4451d3cf351</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
